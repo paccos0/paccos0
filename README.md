@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @paccos
+# 👋 Hi, I’m @RegohDev
 
 ## About Me
 I'm a passionate software developer, web designer, and UI/UX designer. My goal is to create engaging and efficient digital experiences.
